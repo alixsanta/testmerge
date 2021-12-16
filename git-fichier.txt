@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Modification => C'est super de faire du Git
+=======
+Modification => c'est tellement bien de faire du Git
+>>>>>>> feature
